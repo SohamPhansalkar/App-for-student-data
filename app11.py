@@ -18,7 +18,7 @@ import pymongo
 from pymongo import MongoClient
 from bson.objectid import ObjectId
 
-DB_token = ("mongodb+srv://SohamLaptop:gampuzampu1111@cluster0.zkdv3.mongodb.net/ALPHA?retryWrites=true&w=majority")
+DB_token = ("")
 
 client = MongoClient(DB_token)
 
