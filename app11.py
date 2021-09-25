@@ -18,7 +18,7 @@ import pymongo
 from pymongo import MongoClient
 from bson.objectid import ObjectId
 
-DB_token = ("")
+DB_token = ("Make your own account on mongoDB.com and use your key!")
 
 client = MongoClient(DB_token)
 
